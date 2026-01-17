@@ -1,0 +1,65 @@
+
+---# Day 1 – AWS AI Practitioner
+
+## What is Artificial Intelligence (AI)?
+AI refers to machines that can learn, reason, plan, and understand like humans.  
+Examples: chatbots, email spam detection, voice assistants, recommendation systems, facial recognition, self-driving cars.
+
+## What is Machine Learning (ML)?
+ML is a subset of AI that **learns patterns from data** instead of using explicit rules.  
+Example: loan approval model, email spam filter.
+
+## What is Deep Learning (DL)?
+DL is a subset of ML that uses **neural networks** (layers of nodes) to solve complex problems.  
+Examples: image recognition, self-driving cars, speech recognition.
+
+## What is Generative AI?
+Generative AI refers to models that **create new content**, such as text, images, audio, or code.  
+Examples: ChatGPT, Claude, GitHub Copilot.
+
+## Differences (Hierarchy)
+
+AI
+└── ML
+└── Deep Learning
+└── Generative AI
+
+## AWS Examples
+
+| Purpose           | AWS Service  | Description |
+|------------------|-------------|------------|
+| Build ML models   | SageMaker   | Lets you build, train, and deploy ML models on AWS. |
+| Chatbots          | Lex         | Service for creating chatbots that understand text and speech. |
+| Image analysis    | Rekognition | AWS service to analyze images. |
+| Text-to-speech    | Polly       | Converts text into natural-sounding speech. |
+| Speech-to-text    | Transcribe  | Converts spoken audio into text. |
+| Translation       | Translate   | Translates text between different languages. |
+| Forecasting       | Forecast    | Helps predict future trends (e.g., weather, demand). |
+
+---
+
+## Real-World Examples
+
+- **AI:** Amazon Alexa responding to voice commands  
+- **ML:** Netflix recommending shows based on viewing history  
+- **DL:** Self-driving cars detecting pedestrians using cameras  
+- **Generative AI:** ChatGPT generating text or Copilot writing code  
+
+---
+
+## 5 Exam-Style Questions
+
+1. Which AWS service lets you train and deploy machine learning models?  
+   **Answer:** SageMaker
+
+2. What is the difference between ML and DL?  
+   **Answer:** ML is a subset of AI that learns from data; DL is a subset of ML that uses neural networks.
+
+3. Which service is used for creating chatbots on AWS?  
+   **Answer:** Lex
+
+4. Give one example of Generative AI.  
+   **Answer:** ChatGPT
+
+5. Which AWS service converts speech to text?  
+   **Answer:** Transcribe
