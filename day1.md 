@@ -63,3 +63,24 @@ AI
 
 5. Which AWS service converts speech to text?  
    **Answer:** Transcribe
+
+1. Amazon SageMaker
+
+What it does: Lets you build, train, and deploy machine learning models on AWS
+Input: Training data (CSV, images, text, etc.) + code
+Output: A trained ML model (endpoint for predictions)
+Real example: Predicting house prices, loan approval systems, product recommendations
+
+2. Amazon Rekognition
+
+What it does: Analyzes images and videos using AI
+Input: Images or videos
+Output: Labels, faces, objects, emotions, text detection
+Real example: Face unlock systems, detecting people in CCTV footage, photo tagging
+
+3. Amazon Lex
+
+What it does: Builds chatbots and voice assistants
+Input: Text or voice from users
+Output: Bot responses (text or voice)
+Real example: Customer support chatbots, booking bots, virtual assistants
