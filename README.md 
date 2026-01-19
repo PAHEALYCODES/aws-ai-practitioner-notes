@@ -1,0 +1,118 @@
+# AWS AI Practitioner – Study Notes & Projects
+
+This repository documents my learning journey for the **AWS AI Practitioner certification** and includes hands-on mini-projects, notes, and real-world use cases of AWS AI services.
+
+## 🎯 Goal
+- Clear the AWS AI Practitioner exam
+- Understand core AI/ML concepts
+- Learn AWS AI services
+- Build practical AI-based cloud projects
+- Prepare for entry-level AI / Cloud / Data roles
+
+---
+
+## 📚 Topics Covered
+
+### 1. AI, ML & Deep Learning Basics
+- What is Artificial Intelligence?
+- What is Machine Learning?
+- What is Deep Learning?
+- Supervised vs Unsupervised Learning
+- Training vs Inference
+- Overfitting & Underfitting
+
+---
+
+### 2. AWS AI & ML Services
+
+| Service | Purpose |
+|--------|--------|
+SageMaker | Build, train, deploy ML models
+Rekognition | Image & video analysis
+Comprehend | NLP & text analysis
+Textract | Extract text from documents
+Lex | Chatbots
+Polly | Text-to-speech
+Transcribe | Speech-to-text
+Translate | Language translation
+Forecast | Time-series forecasting
+Personalize | Recommendation systems
+
+---
+
+### 3. Responsible AI
+- Bias & fairness
+- Transparency
+- Explainability
+- Security
+- Privacy
+- Compliance
+
+---
+
+### 4. Security & Pricing
+- IAM basics
+- Data encryption
+- Access control
+- Cost optimization
+- Pay-as-you-go model
+
+---
+
+## 🛠️ Mini Projects (Coming Soon)
+
+These projects will connect AWS services to real-world problems:
+
+1. Resume Parser using AWS Textract
+2. AI Chatbot using AWS Lex
+3. Sentiment Analyzer using AWS Comprehend
+4. Image Analyzer using AWS Rekognition
+5. Recommendation System using AWS Personalize
+
+---
+
+## 🧪 Hands-On Labs
+
+Each lab will include:
+- Step-by-step setup
+- Code examples
+- Screenshots
+- Learnings
+
+---
+
+## 📝 Exam Preparation
+
+This repo includes:
+- Key exam concepts
+- Practice questions
+- Flash notes
+- Use case mappings
+- Real-world examples
+
+---
+
+## 🚀 Status
+
+🚧 In Progress
+
+---
+
+## 🔗 Resources
+
+- AWS Documentation
+- Coursera
+- AWS Skill Builder
+- YouTube tutorials
+
+---
+
+## 📌 Author
+
+*Healy Patel**  
+Aspiring AI & Cloud Engineer  
+GitHub: https://github.com/PAHEALYCODES  
+LinkedIn:https://www.linkedin.com/in/healy-patel/
+
+---
+
