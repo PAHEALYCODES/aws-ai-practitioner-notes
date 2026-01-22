@@ -1,6 +1,6 @@
 # Day 1 – AWS AI Practitioner
 
-#Day1 of #100DaysOfLearningAI
+
 
 ---
 
