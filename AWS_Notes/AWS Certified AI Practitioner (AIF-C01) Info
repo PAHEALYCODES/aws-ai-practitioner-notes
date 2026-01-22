@@ -1,0 +1,79 @@
+Exam Basics
+Code: AIF-C01
+
+Cost: $100 USD
+
+Time: 90 Minutes
+
+Format: 65 Questions (Multiple Choice & Multiple Response)
+
+Passing Score: 700 / 1000
+
+Scoring: 50 questions count towards your score; 15 are unscored "pre-test" questions (you won't know which is which, so answer all seriously).
+
+Domain Breakdown
+
+Domain 1: Fundamentals of AI and ML (20%)
+Core Concepts: Know the difference between AI (broad field), ML (subset learning from data), and Deep Learning (neural networks).
+
+Learning Types:
+
+Supervised: Labeled data (e.g., spam vs. not spam).
+
+Unsupervised: Unlabeled data, finding patterns (e.g., customer segmentation/clustering).
+
+Reinforcement: Learning through trial and error (rewards/punishments).
+
+Inference:
+
+Real-time: Immediate response (low latency).
+
+Batch: Processing large datasets at once (delayed).
+
+Domain 2: Fundamentals of Generative AI (24%)
+How it Works: Understand tokens (parts of words), embeddings (numerical vectors representing meaning), and transformers (the architecture behind GPT-like models).
+
+Model Types:
+
+LLMs: Text generation.
+
+Diffusion Models: Image generation.
+
+Multimodal: Models that handle text, image, and audio together.
+
+Capabilities: Summarization, translation, code generation, and question answering.
+
+Domain 3: Applications of Foundation Models (28%)
+(This is the largest section)
+
+Selection: Choosing the right model based on cost, speed, and modality.
+
+RAG (Retrieval-Augmented Generation): Connecting models to your company data (Knowledge Bases) to fix hallucinations.
+
+Fine-Tuning: specialized training on your own data.
+
+Agents: AI that can perform actions (like booking a ticket) via API calls.
+
+Domain 4: Guidelines for Responsible AI (14%)
+Key Principles:
+
+Fairness: preventing bias against specific groups.
+
+Explainability: understanding how a model reached a conclusion.
+
+Privacy: protecting user data.
+
+Robustness: ensuring the model works under stress or attack.
+
+Transparency: disclosing when AI is being used.
+
+Bias Detection: Using tools like Amazon SageMaker Clarify.
+
+Domain 5: Security, Compliance, and Governance (14%)
+AI Security: Protecting against Prompt Injection (hacking the prompt) and model theft.
+
+Compliance: Adhering to standards (GDPR, HIPAA) when using AI.
+
+Governance: Managing who has access to use models (using AWS IAM) and tracking audit logs (using AWS CloudTrail).
+
+Human-in-the-loop: Knowing when a human review is legally or ethically required.
